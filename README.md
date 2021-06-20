@@ -2,7 +2,7 @@
 
 As I was vaccinated by friday and not feeling well for past two days, So I was unable to complete the problem completely.
 
-Hence I write down my solution in words.
+Hence I wrote down my solution in words.
 
 Get two options one for Customer booking and other options as Printing delivery exectutive history.
 
